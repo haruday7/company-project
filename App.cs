@@ -10,7 +10,8 @@ namespace Welcome
     {
         public App()
         {
-
+            Console.WriteLine("으악");
+            Console.WriteLine("으악");
         }
     }
 }
