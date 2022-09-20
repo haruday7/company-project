@@ -13,5 +13,11 @@ namespace Welcome
             Console.WriteLine("으악");
             Console.WriteLine("으악");
         }
+        public void Check()
+        {
+            Console.WriteLine("으악");
+            Console.WriteLine("으악");
+            Console.WriteLine("으악");
+        }
     }
 }
